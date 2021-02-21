@@ -11,5 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 library(tidyverse)
+library(brew)
+```
+
+```{r}
+
+2+2
+```
+
+test
+```{r}
+4+4
 ```
 
